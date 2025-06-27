@@ -47,3 +47,19 @@ footer {
     background: #333;
     color: #fff;
 }
+body.dark-mode {
+    background: #121212;
+    color: #fff;
+}
+body.dark-mode header {
+    background: #000;
+}
+body.dark-mode nav a {
+    color: #fff;
+}
+body.dark-mode section {
+    background: #1e1e1e;
+}
+body.dark-mode footer {
+    background: #000;
+}
